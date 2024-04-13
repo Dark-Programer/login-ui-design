@@ -18,7 +18,7 @@
 
   <p>Clone the repository to your local machine:</p>
 
-  <pre><code>git clone https://github.com/Dark-Programer/login-ui-design</code></pre>
+  <pre><code>git clone https://github.com/Dark-Programer/login-ui-design.git</code></pre>
 
   <p>Open the <code>index.html</code> file in your web browser to view the login window design.</p>
 
